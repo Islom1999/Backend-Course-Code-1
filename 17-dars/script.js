@@ -145,7 +145,6 @@ console.log('%c Karimov', 'color: #ff0000; font-size: 35px; text-align: center; 
 console.error('Salom Bu Xato')
 console.warn('Salom Bu Ogohlantirish')
 
-
 let arr = []
 console.time('Regular for loop')
     for(let i = 1; i< 1000; i++){
